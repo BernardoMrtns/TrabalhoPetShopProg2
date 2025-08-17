@@ -1,0 +1,5 @@
+enum CategoriaServico {
+    BANHO_E_TOSA,
+    CONSULTA_VETERINARIA,
+    HOTELARIA_E_CRECHE
+}
